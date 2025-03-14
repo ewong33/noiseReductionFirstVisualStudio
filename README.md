@@ -1,0 +1,1 @@
+There are 4 visual studio projects.  VNRGL is the diffusion filter project.  VTemporalNRGL is the temporal filter project.  VNLMNRGL is the non local means filter project, implemented using a compute shader.  VNR2cGL is the non local means filter project implemented with a fragment shader. 
